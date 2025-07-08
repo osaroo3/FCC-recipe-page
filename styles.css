@@ -12,3 +12,14 @@ h1 {
     border: 1px solid rgb(244, 242, 242);
     margin: 0 auto;
 }
+
+.arr-div {
+    display: flex;
+    text-align: justify;
+}
+
+img {
+    width: 350px;
+    height: 300px;
+    padding-left: 20px;
+}
